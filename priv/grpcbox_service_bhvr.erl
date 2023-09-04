@@ -5,8 +5,6 @@
 
 %% this module was generated and should not be modified manually
 
-%% TEST
-
 -module({{module_name}}_bhvr).
 
 {{#methods}}
